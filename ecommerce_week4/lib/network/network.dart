@@ -1,0 +1,1 @@
+part 'product_network.dart';
